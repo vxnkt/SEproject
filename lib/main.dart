@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:seproject/diabetes_page.dart';
 import 'package:seproject/home_page.dart';
+import 'package:seproject/results_page.dart';
 
 void main() {
   runApp(const MyApp());
